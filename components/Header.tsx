@@ -31,7 +31,7 @@ export default function Header() {
         <div>
           <Link href="/" passHref role="button">
             <Image
-              src={`/logo.png`}
+              src={`/logo.webp`}
               alt="Logo"
               width={30}
               height={30}
